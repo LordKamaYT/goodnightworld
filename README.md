@@ -8,3 +8,9 @@ This is **my** attempt at making a calculator program. But not any program. Whit
 ## ... Why this name ?
 
 You'll see...
+
+# How
+
+One of the main things we'll use are getKey requests. Here is a key schema
+
+![Keys](http://tibasicdev.wdfiles.com/local--files/userinput/getkey.png)
