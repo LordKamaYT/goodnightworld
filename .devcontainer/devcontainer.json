@@ -1,0 +1,8 @@
+{
+    "name": "TI-BASIC Development",
+    "build": {
+      "dockerfile": "Dockerfile",
+      "args": { "VARIANT": "buster" }
+    }
+  }
+  
