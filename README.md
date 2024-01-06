@@ -3,14 +3,12 @@ The last thing you'll see... But as I wander in this world, I only see my soul t
 
 ## What is this ?
 
-This is **my** attempt at making a calculator program. But not any program. Whitepaper up soon
+This is **my** attempt at making a neural network.
 
 ## ... Why this name ?
 
-You'll see...
+You'll see... Based on the Manga by Uru Okabe
 
 # How
 
-One of the main things we'll use are getKey requests. Here is a key schema
-
-![Keys](http://tibasicdev.wdfiles.com/local--files/userinput/getkey.png)
+We use Python, aswell as TensorFlow and OpenAI GYM. We'll give our artificial being an environment, a soul... until it dies.
