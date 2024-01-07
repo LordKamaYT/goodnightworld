@@ -1,0 +1,8 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 810px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}

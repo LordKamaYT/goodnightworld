@@ -1,0 +1,129 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 810px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #0c0c0c;
+  overflow: hidden;
+}
+.bubblesFrame {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 810px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 810px;
+  background-image:/* webpackIgnore: true */ url('/assets/header.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.buttonGitHub {
+  position: absolute;
+  left: 121.5px;
+  top: 694.5px;
+  width: 227.25px;
+  height: 69px;
+  border-radius: 375.75px;
+  background-color: #000;
+}
+.viewTheProject {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 900;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 160.5px;
+  top: 718.5px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.logo {
+  position: absolute;
+  left: 18px;
+  top: 673.5px;
+  width: 103.5px;
+  height: 112.5px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.githubLogo2 {
+  position: absolute;
+  left: 656.2697px;
+  top: 403.3633px;
+  width: 18px;
+  height: 18px;
+  flex-direction: column;
+  overflow: hidden;
+}
+.instagram {
+  position: absolute;
+  left: 370.5px;
+  top: 705px;
+  width: 48.821px;
+  height: 48.821px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.headline {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 371.25px;
+  top: 375.75px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.description {
+  color: #fff;
+  font-size: 27px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 370.5px;
+  top: 422.25px;
+  width: 693px;
+  height: 120.75px;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 30.625%;
+  right: 66.0417%;
+  top: 87.037%;
+  bottom: 7.037%;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
